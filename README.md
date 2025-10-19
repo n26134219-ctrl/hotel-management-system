@@ -34,7 +34,6 @@ hotel-management-system
 │               └── hotel
 │                   └── model
 │                       └── HotelTest.java
-├── pom.xml
 └── README.md
 ```
 
